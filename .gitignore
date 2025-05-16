@@ -1,5 +1,6 @@
 # Folders
-dataset/
+datasets/
+datset/
 results/
 __pycache__/
 .ipynb_checkpoints/
