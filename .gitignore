@@ -1,0 +1,12 @@
+# Folders
+dataset/
+results/
+__pycache__/
+.ipynb_checkpoints/
+
+# File types
+*.png
+*.jpg
+*.jpeg
+*.pt
+*.pth
